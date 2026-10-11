@@ -17,7 +17,6 @@ Tests / andere Clients REST+                          --> später SQLite/FTS5
 ## Umgebung
 - Server: Atlas, Ubuntu
 - Docker-Netz: `brain_net`
-- Open WebUI: `http://192.168.178.125:3000`
 - bisheriger Vault-Kandidat: `/opt/brain/vault-test` (**vor produktivem Einsatz bestätigen**)
 - Python-Dienste: `brain-markdown-search`, `brain-vault-write-mcp`
 - Deployment: GitHub Actions; genauer Mechanismus (Runner/Pull) vor Schritt 05 festlegen.
