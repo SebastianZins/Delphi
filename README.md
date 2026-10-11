@@ -70,6 +70,9 @@ Status: 🟢 abgeschlossen · 🟡 geplant/offen · 🔴 blockiert/Problem.
 - [ ] Open WebUI nutzt Delphi erfolgreich
 - [ ] Python-Dienste erst danach abschalten
 
+## Learn more
+[Wiki](https://github.com/SebastianZins/Delphi/wiki/Delphi)
+
 ## Referenzen
 - [.NET 10](https://learn.microsoft.com/dotnet/core/whats-new/dotnet-10/overview)
 - [ASP.NET Core Web API](https://learn.microsoft.com/aspnet/core/web-api/)
