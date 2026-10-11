@@ -1,0 +1,6 @@
+@Delphi_HostAddress = http://localhost:5067
+
+GET {{Delphi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
